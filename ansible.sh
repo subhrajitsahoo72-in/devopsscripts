@@ -1,2 +1,4 @@
-amazon-linux-extras install ansible2 -y
-yum install python3 python-pip python-dlevel -y
+#for amzon linux 
+sudo dnf install ansible -y
+#for updated python version 
+sudo dnf install python3 python3-pip -y
